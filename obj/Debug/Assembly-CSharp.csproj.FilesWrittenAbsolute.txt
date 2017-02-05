@@ -1,0 +1,17 @@
+/Users/ishanvadwala/FML01/Temp/bin/Debug/UnityEngine.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/UnityEditor.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ishanvadwala/FML01/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ishanvadwala/FML01/obj/Debug/Assembly-CSharp.dll
+/Users/ishanvadwala/FML01/obj/Debug/Assembly-CSharp.dll.mdb
